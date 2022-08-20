@@ -1,2 +1,2 @@
 #Github
-Tricolor Estou na aula teste de git  
+Acabando as aulas  
